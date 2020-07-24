@@ -1,8 +1,8 @@
 {
-  "title": "Mouse keys (simple) (rev 1) Modified Eric MediumSpeed Mouse Right Control",
+  "title": "Mouse keys (simple) (rev 1) Modified Eric MediumSpeed Mouse Right Command",
   "rules": [
     {
-      "description": "Mouse keys (simple) (rev 1) Modified Eric MediumSpeed Mouse Right Control",
+      "description": "Mouse keys (simple) (rev 1) Modified Eric MediumSpeed Mouse Right Command",
       "manipulators": [
         {
           "type": "basic",
@@ -10,7 +10,7 @@
             "key_code": "w",
             "modifiers": {
               "mandatory": [
-                "right_control"
+                "right_command"
               ],
               "optional": [
                 "any"
@@ -31,7 +31,7 @@
             "key_code": "a",
             "modifiers": {
               "mandatory": [
-                "right_control"
+                "right_command"
               ],
               "optional": [
                 "any"
@@ -52,7 +52,7 @@
             "key_code": "s",
             "modifiers": {
               "mandatory": [
-                "right_control"
+                "right_command"
               ],
               "optional": [
                 "any"
@@ -73,7 +73,7 @@
             "key_code": "d",
             "modifiers": {
               "mandatory": [
-                "right_control"
+                "right_command"
               ],
               "optional": [
                 "any"
@@ -94,7 +94,7 @@
             "key_code": "r",
             "modifiers": {
               "mandatory": [
-                "right_control"
+                "right_command"
               ],
               "optional": [
                 "any"
@@ -115,7 +115,7 @@
             "key_code": "v",
             "modifiers": {
               "mandatory": [
-                "right_control"
+                "right_command"
               ],
               "optional": [
                 "any"
@@ -136,7 +136,7 @@
             "key_code": "f",
             "modifiers": {
               "mandatory": [
-                "right_control"
+                "right_command"
               ],
               "optional": [
                 "any"
@@ -155,7 +155,7 @@
             "key_code": "g",
             "modifiers": {
               "mandatory": [
-                "right_control"
+                "right_command"
               ],
               "optional": [
                 "any"

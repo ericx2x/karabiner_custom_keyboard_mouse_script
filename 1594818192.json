@@ -104,7 +104,7 @@
           "to": [
             {
               "mouse_key": {
-                "vertical_wheel": -32
+                "vertical_wheel": -120
               }
             }
           ]
@@ -125,7 +125,7 @@
           "to": [
             {
               "mouse_key": {
-                "vertical_wheel": 32
+                "vertical_wheel": 120
               }
             }
           ]
