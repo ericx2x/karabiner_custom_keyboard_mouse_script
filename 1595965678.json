@@ -985,7 +985,7 @@
           "to": [
             {
               "mouse_key": {
-                "speed_multiplier": 0.35
+                "speed_multiplier": 0.25
               }
             }
           ],
@@ -1041,7 +1041,7 @@
             },
             {
               "mouse_key": {
-                "speed_multiplier": 0.35
+                "speed_multiplier": 0.25
               }
             }
           ],
@@ -1247,7 +1247,7 @@
             },
             {
               "mouse_key": {
-                "speed_multiplier": 0.35
+                "speed_multiplier": 0.25
               }
             }
           ],
@@ -1299,7 +1299,7 @@
             },
             {
               "mouse_key": {
-                "speed_multiplier": 0.35
+                "speed_multiplier": 0.25
               }
             }
           ],
@@ -1351,7 +1351,7 @@
             },
             {
               "mouse_key": {
-                "speed_multiplier": 0.35
+                "speed_multiplier": 0.25
               }
             }
           ],
@@ -1403,7 +1403,7 @@
             },
             {
               "mouse_key": {
-                "speed_multiplier": 0.35
+                "speed_multiplier": 0.25
               }
             }
           ],
@@ -1455,7 +1455,7 @@
             },
             {
               "mouse_key": {
-                "speed_multiplier": 0.35
+                "speed_multiplier": 0.25
               }
             }
           ],
