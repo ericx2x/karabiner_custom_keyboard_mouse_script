@@ -91,7 +91,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "r",
+            "key_code": "k",
             "modifiers": {
               "mandatory": [
                 "right_command"
@@ -104,7 +104,7 @@
           "to": [
             {
               "mouse_key": {
-                "vertical_wheel": -32
+                "vertical_wheel": -40
               }
             }
           ]
@@ -112,7 +112,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "v",
+            "key_code": "j",
             "modifiers": {
               "mandatory": [
                 "right_command"
@@ -125,7 +125,7 @@
           "to": [
             {
               "mouse_key": {
-                "vertical_wheel": 32
+                "vertical_wheel": 40
               }
             }
           ]
