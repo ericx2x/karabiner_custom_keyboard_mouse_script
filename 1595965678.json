@@ -26,7 +26,7 @@
           ],
           "conditions": [
             {
-              "type": "variable_if",
+              "typ": "variable_if",
               "name": "mouse_keys_mode_v4",
               "value": 1
             },
@@ -908,7 +908,7 @@
           "to": [
             {
               "mouse_key": {
-                "speed_multiplier": 2.0
+                "speed_multiplier": 3.0
               }
             }
           ],
@@ -962,7 +962,7 @@
                 "value": 1
               }
             },
-          {
+            {
               "mouse_key": {
                 "speed_multiplier": 2.0
               }
@@ -1480,7 +1480,7 @@
             },
             {
               "mouse_key": {
-                "speed_multiplier": 0.25
+                "speed_multiplier": 3.75
               }
             }
           ],
@@ -1517,9 +1517,9 @@
             }
           },
           "to": [
-              {
-                  "key_code": "spacebar"
-              }
+            {
+              "key_code": "spacebar"
+            }
           ],
           "to_if_held_down": [
             {
